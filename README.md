@@ -14,7 +14,7 @@
    
 ![Screenshot 2024-12-30 at 14 08 46](https://github.com/user-attachments/assets/90482fda-ebb7-400c-b4e4-21a801047f69)
 
-4. the world database has 3 datasets contained in itself.
+4. The world database has 3 datasets contained in itself.
    
 ![Screenshot 2024-12-30 at 14 08 54](https://github.com/user-attachments/assets/01ae25c8-cb28-4076-b36a-082e91913dd0)
 
